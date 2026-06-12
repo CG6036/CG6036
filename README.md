@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:B85C6E,100:6B6FA8&text=Hello%20World,%20I%27m%20Changyu&section=header&reversal=false&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:B85C6E,100:6B6FA8&text=Hello,%20World!%20I'm%20Changyu&section=header&reversal=false&fontColor=FFFFFF)
 
 ## Hi there 👋
 
