@@ -2,20 +2,20 @@
 # Profile
 
 ## 💼 Work
-> - ImpactiveAI
+> - **ImpactiveAI**
 >   - Manager @ Data Science Team, 2026 ~ Current
-> - Electronics and Telecommunications Research Institute (ETRI)
+> - **Electronics and Telecommunications Research Institute (ETRI)**
 >   - Researcher @ ICT Strategy Research Laboratory, 2025 ~ 2026
-> - Data Intelligence and Learning Lab, Seoul National University
+> - **Data Intelligence and Learning Lab, Seoul National University**
 >   - Researcher @ Empirical Research Team, 2023 ~ 2025
 
 ## 🎓 Education
 
-> - Seoul National University
+> - **Seoul National University**
 >   - Master's in Data Science, 2025
-> - Handong Global University 
+> - **Handong Global University**
 >   - B.S. in AI Convergence & B.A. in Management (Magna Cum Laude), 2023
-> - Wesley International School
+> - **Wesley International School**
 >   - High School Diploma, 2016
 
 ## 🏢 Internship & Research Collaboration
@@ -29,13 +29,13 @@
 > - SL.Corp
 
 ## 🎙️ Invited Talks
-> - Ministry of Employment and Labor (Daejeon, Korea Rep.), Dec 2025
-> - DRUID 2025 (Toronto, Canada), Jun 2025
-> - Korea Production and Operation Management Society (Incheon, Korea Rep.) May 2025
+> - Ministry of Employment and Labor (_Daejeon, Korea Rep._), Dec 2025
+> - DRUID 2025 (_Toronto, Canada_), Jun 2025
+> - Korea Production and Operation Management Society (_Incheon, Korea Rep._) May 2025
 > - 2024 INFORMS Annual Meeting (Seattle, U.S.), Oct 2024
-> - 84th Annual Meeting of the Academy of Management (Chicago, U.S.), Aug 2024
+> - 84th Annual Meeting of the Academy of Management (_Chicago, U.S._), Aug 2024
 > - 2024 IEEE Pacific Visualization (Tokyo, Japan), Apr 2024
-> - AhnLab, Artificial Intelligence Division (Pangyo, Korea Rep.), Dec 2023
+> - AhnLab, Artificial Intelligence Division (_Pangyo, Korea Rep._), Dec 2023
 
 
 
