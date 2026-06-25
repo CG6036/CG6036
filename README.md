@@ -14,7 +14,7 @@
 > - **Seoul National University**
 >   - Master's in Data Science, 2025
 > - **Handong Global University**
->   - B.S. in AI Convergence & B.A. in Management (Magna Cum Laude), 2023
+>   - B.S. in AI Convergence & B.A. in Management, 2023 (Magna Cum Laude)
 > - **Wesley International School**
 >   - High School Diploma, 2016
 
